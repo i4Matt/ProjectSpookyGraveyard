@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3 uid="uid://b58o2c8kww0u7"]
+
+[ext_resource type="PackedScene" uid="uid://bqe8qiam1sspl" path="res://Assets/player_character.tscn" id="1_5em3v"]
+
+[node name="World" type="Node2D"]
+
+[node name="PlayerCharacter" parent="." instance=ExtResource("1_5em3v")]
+position = Vector2(171, 37)
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StaticBody2D"]
+position = Vector2(23.5, 56)
+scale = Vector2(3.35, 6.6)
+polygon = PackedVector2Array(-1.9403, 15.6061, -72.0896, 32.5758, -134.478, -7.87879, -110, -27.8788, 8.50746, -26.8182, 34.4776, 16.2121, 36.5672, 51.6667, -21.9403, 55.6061, 7.91045, 38.4848)

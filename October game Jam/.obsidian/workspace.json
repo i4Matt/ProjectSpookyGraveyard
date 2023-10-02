@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studio Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd245020ae342e7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studio Notes.md",
+                "file": "Starting Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studio Notes.md",
+                "file": "Starting Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studio Notes.md",
+                "file": "Starting Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studio Notes.md"
+                "file": "Starting Note.md"
               }
             }
           }
@@ -171,11 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd245020ae342e7e",
+  "active": "16f8f817afa3e763",
   "lastOpenFiles": [
-    "Untitled.md",
     "Studio Notes.md",
-    "Untitled",
     "Starting Note.md"
   ]
 }
