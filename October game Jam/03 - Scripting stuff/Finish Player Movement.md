@@ -1,6 +1,6 @@
 ---
 tags:
-  - ToDo
-  - WIP
-  - "#By/Matt"
+  - Con/TODO
+  - Con/WIP
+  - By/Matt
 ---

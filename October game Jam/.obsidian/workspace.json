@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a1713429261d080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "Starting Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6eb0117ebb0f0e97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo.md",
-=======
-                "file": "01 - Start/To Do List.md",
->>>>>>> Stashed changes
-                "mode": "source",
+                "file": "03 - Scripting stuff/Finish Player Movement.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-<<<<<<< Updated upstream
-        ],
-        "currentTab": 1
-=======
         ]
->>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -69,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:ToDo",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -86,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,11 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "ToDo.md",
-=======
-                "file": "01 - Start/To Do List.md",
->>>>>>> Stashed changes
+                "file": "03 - Scripting stuff/Finish Player Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,11 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "ToDo.md",
-=======
-                "file": "01 - Start/To Do List.md",
->>>>>>> Stashed changes
+                "file": "03 - Scripting stuff/Finish Player Movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,11 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "ToDo.md"
-=======
-                "file": "01 - Start/To Do List.md"
->>>>>>> Stashed changes
+                "file": "03 - Scripting stuff/Finish Player Movement.md"
               }
             }
           }
@@ -167,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,34 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "dcb6282bb398cef5",
+  "active": "6eb0117ebb0f0e97",
   "lastOpenFiles": [
-    "Starting Note.md",
-    "ToDo.md",
-    "Studio Notes.md"
-=======
-  "active": "16ebd8eb65e0d5c8",
-  "lastOpenFiles": [
-    "03 - Scripting stuff/Finish Player Movement.md",
-    "01 - Start/To Do List.md",
-    "02 - Art Stuff/Player Character.md",
-    "- Templates/Basic Note Format.md",
     "03 - Scripting stuff/Figure out Interactions.md",
-    "00 - Daily Notes/2023/Oct/23-Oct-01.md",
-    "- Templates/Daily Note Template.md",
-    "Untitled.canvas",
-    "01 - Start/Starting Note.md",
+    "02 - Art Stuff/Player Character.md",
     "01 - Start/Studio Notes.md",
-    "00 - Daily Notes/2023/Oct/2023-10-01.md",
+    "01 - Start/Starting Note.md",
+    "00 - Daily Notes/2023/Oct/23-Oct-01.md",
+    "Untitled.canvas",
+    "01 - Start/To Do List.md",
+    "03 - Scripting stuff/Finish Player Movement.md",
+    "- Templates/Basic Note Format.md",
+    "- Templates/Daily Note Template.md",
+    "ToDo.md",
+    "03 - Scripting stuff",
+    "02 - Art Stuff",
+    "01 - Start",
     "00 - Daily Notes/2023/Oct",
     "00 - Daily Notes/2023",
-    "- Templates",
     "00 - Daily Notes",
-    "2023-10-01.md",
-    "02 - Art Stuff",
-    "03 - Scripting stuff",
-    "01 - Start"
->>>>>>> Stashed changes
+    "- Templates",
+    "Starting Note.md",
+    "Studio Notes.md"
   ]
 }

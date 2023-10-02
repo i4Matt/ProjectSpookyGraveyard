@@ -1,7 +1,7 @@
 ---
 tags:
-  - ToDo
-  - "#By/Finn"
+  - Con/TODO
+  - By/Finn
 ---
 # Art #Art
 ## Idle
