@@ -1,7 +1,11 @@
 {
   "collapse-filter": true,
   "search": "",
+<<<<<<< Updated upstream
   "showTags": false,
+=======
+  "showTags": true,
+>>>>>>> Stashed changes
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
