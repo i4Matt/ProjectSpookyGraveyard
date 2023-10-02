@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 2D Horror Game
 - horror rpg- corps party style
 - play as a physic medium and help ghost pas on to the after life.
