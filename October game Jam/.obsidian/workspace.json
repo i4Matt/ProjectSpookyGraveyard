@@ -1,20 +1,29 @@
 {
   "main": {
-    "id": "bbf09eae2ce1674a",
+    "id": "596392aa51ef2da4",
     "type": "split",
     "children": [
       {
-        "id": "6911c0fca7286877",
+        "id": "c7219c94cceef067",
         "type": "tabs",
         "children": [
           {
+<<<<<<< Updated upstream
             "id": "6eb0117ebb0f0e97",
+=======
+            "id": "e9e3c6de6e9319bd",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "03 - Scripting stuff/Finish Player Movement.md",
                 "mode": "preview",
+=======
+                "file": "01 - Start/To Do List.md",
+                "mode": "source",
+>>>>>>> Stashed changes
                 "source": false
               }
             }
@@ -25,15 +34,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "12a3e276baf79cde",
+    "id": "c16cb593e7f6cfce",
     "type": "split",
     "children": [
       {
-        "id": "ac9a8dd351d3838d",
+        "id": "466da5faa04b5ad3",
         "type": "tabs",
         "children": [
           {
-            "id": "dcb6282bb398cef5",
+            "id": "fb77284dc3c620a7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +52,7 @@
             }
           },
           {
-            "id": "16ebd8eb65e0d5c8",
+            "id": "a00df7b875defa73",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +67,7 @@
             }
           },
           {
-            "id": "6c397ab04a3a0be7",
+            "id": "a455c17bce464e00",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +81,24 @@
     "width": 300
   },
   "right": {
-    "id": "144359d63e04b7d3",
+    "id": "b5c5451d376fe9c6",
     "type": "split",
     "children": [
       {
-        "id": "efda54235952c5ad",
+        "id": "bdab6e243c57984f",
         "type": "tabs",
         "children": [
           {
-            "id": "e17cc8e8e6d24972",
+            "id": "529db8c3c6745012",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "03 - Scripting stuff/Finish Player Movement.md",
+=======
+                "file": "01 - Start/To Do List.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,23 @@
             }
           },
           {
-            "id": "ece8f885c4986414",
+            "id": "a6851bd4ba2927aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "03 - Scripting stuff/Finish Player Movement.md",
+=======
+                "file": "01 - Start/To Do List.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "85324f99bc134191",
+            "id": "891ff0a92773030e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +137,16 @@
             }
           },
           {
-            "id": "9eb2dd5708fefb3d",
+            "id": "1e2d1be274855cf0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "03 - Scripting stuff/Finish Player Movement.md"
+=======
+                "file": "01 - Start/To Do List.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -146,6 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "6eb0117ebb0f0e97",
   "lastOpenFiles": [
     "03 - Scripting stuff/Figure out Interactions.md",
@@ -168,5 +190,11 @@
     "- Templates",
     "Starting Note.md",
     "Studio Notes.md"
+=======
+  "active": "e9e3c6de6e9319bd",
+  "lastOpenFiles": [
+    "ToDo.md",
+    "01 - Start/To Do List.md"
+>>>>>>> Stashed changes
   ]
 }
