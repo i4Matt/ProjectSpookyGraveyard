@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"bbddd22126d6c338","x":0,"y":-1860,"width":400,"height":480,"color":"4","type":"file","file":"04 - Game Elements/00 - Plot/01 - Scenes/Cemetery/Cemetery Scene 1.md"},
+		{"id":"e090c632ffd1b075","type":"text","text":"This will be where we Build the Outline of the story, make individual scenes in the folder above and then link them in a chain.\nThis will make it so we can mix things around if we want. #By/Nick  ","x":-440,"y":-2080,"width":520,"height":140,"color":"2"},
+		{"id":"5e98295468d76835","type":"file","file":"04 - Game Elements/00 - Plot/01 - Scenes/Catacombs/Catacombs Scene 1.md","x":-540,"y":-1860,"width":400,"height":480,"color":"4"}
+	],
+	"edges":[
+		{"id":"590cc2e2b64f6255","fromNode":"5e98295468d76835","fromSide":"right","toNode":"bbddd22126d6c338","toSide":"left"}
+	]
+}

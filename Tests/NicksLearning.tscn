@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://b1ftx2lv6xuq1"]
+
+[ext_resource type="Texture2D" uid="uid://dwh1rmjwjpvih" path="res://Tests/Bullwshi.png" id="1_qx6k7"]
+[ext_resource type="Script" path="res://Tests/Node2D.gd" id="2_kgwhj"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(664, -762)
+scale = Vector2(44.875, 51.375)
+texture = ExtResource("1_qx6k7")
+
+[node name="Node2D" type="Node2D" parent="."]
+position = Vector2(-870.273, -2704.44)
+script = ExtResource("2_kgwhj")
