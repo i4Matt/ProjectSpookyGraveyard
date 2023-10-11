@@ -11,14 +11,11 @@
             "id": "34b22d73390a5b92",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "04 - Game Elements/00 - Plot/Game Plot Story Board.canvas",
-                "viewState": {
-                  "x": -70,
-                  "y": -1730,
-                  "zoom": -0.49045851425792175
-                }
+                "file": "04 - Game Elements/00 - Plot/00 - Story/Story Ideas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Game Elements/00 - Plot/Game Plot Story Board.canvas",
+                "file": "04 - Game Elements/00 - Plot/00 - Story/Story Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Game Elements/00 - Plot/Game Plot Story Board.canvas",
+                "file": "04 - Game Elements/00 - Plot/00 - Story/Story Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Game Elements/00 - Plot/Game Plot Story Board.canvas"
+                "file": "04 - Game Elements/00 - Plot/00 - Story/Story Ideas.md"
               }
             }
           }
@@ -149,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b905fc3d68451e9f",
+  "active": "34b22d73390a5b92",
   "lastOpenFiles": [
+    "04 - Game Elements/00 - Plot/Game Plot Story Board.canvas",
+    "04 - Game Elements/00 - Plot/00 - Story/Story Ideas.md",
+    "04 - Game Elements/00 - Plot/Untitled",
     "04 - Game Elements/00 - Plot/01 - Scenes/Cemetery/Cemetery Scene 1.md",
     "04 - Game Elements/00 - Plot/01 - Scenes/Catacombs/Catacombs Scene 1.md",
     "04 - Game Elements/00 - Plot/00 - Story/the Point of the Story.md",
     "03 - Scripting stuff/Figure out Interactions.md",
     "00 - Daily Notes/2023/Oct/23-Oct-10.md",
-    "04 - Game Elements/00 - Plot/Game Plot Story Board.canvas",
     "- Templates/Scene Template.md",
     "04 - Game Elements/00 - Plot/01 - Scenes/Catacombs",
     "04 - Game Elements/00 - Plot/01 - Scenes/Cemetery",
@@ -167,7 +166,6 @@
     "04 - Game Elements/03 -",
     "04 - Game Elements/01 - Puzzles",
     "04 - Game Elements/01 - Goals",
-    "04 - Game Elements/00 - Plot",
-    "04 - Game Elements"
+    "04 - Game Elements/00 - Plot"
   ]
 }
